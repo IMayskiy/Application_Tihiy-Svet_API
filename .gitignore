@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+node_modules/
+.tools/
+data/generated/
+backups/
+tests/crm-temp-*/
+*.log
+.portfolio-staging/

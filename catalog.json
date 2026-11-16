@@ -1,0 +1,13 @@
+{
+  "currency": "RUB",
+  "products": [
+    {
+      "id": "LUNA-01-WHITE",
+      "product": "Луна 01",
+      "color": "белый",
+      "price_rub": 5900,
+      "available_qty": 8,
+      "delivery_date": null
+    }
+  ]
+}

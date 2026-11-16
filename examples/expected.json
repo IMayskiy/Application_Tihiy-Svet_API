@@ -1,0 +1,44 @@
+{
+  "01_main": {
+    "quantity": 12,
+    "budget_rub": 60000,
+    "contact": null,
+    "delivery_address": null,
+    "price_rub": 5900,
+    "available_qty": 8,
+    "delivery_date": null,
+    "total_rub": 70800,
+    "over_budget_rub": 10800,
+    "shortage_qty": 4,
+    "save_without_confirmation": false
+  },
+  "02_no_budget": {
+    "budget_rub": null,
+    "total_rub": 70800,
+    "over_budget_rub": null,
+    "budget_comparison": "unavailable"
+  },
+  "03_not_found": {
+    "found": false,
+    "price_rub": null,
+    "total_rub": null,
+    "substitute_product": false
+  },
+  "04_review_ready": {
+    "quantity": 8,
+    "budget_rub": 50000,
+    "total_rub": 47200,
+    "over_budget_rub": 0,
+    "shortage_qty": 0,
+    "delivery_date": null,
+    "confirmed_order": false
+  },
+  "05_no_permission": {
+    "save_without_confirmation": false,
+    "new_leads_before_confirmation": 0
+  },
+  "06_invalid_quantity": {
+    "business_validation": "reject",
+    "new_leads": 0
+  }
+}
